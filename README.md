@@ -1,4 +1,4 @@
-Medussa estará en la web en junio! <3
+<h1>Medussa estará en la web en junio! <3</h1>
 
 Productos ejemplo seedeados
 
